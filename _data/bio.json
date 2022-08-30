@@ -10,9 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "Connor Sonoda", "url": "https://www.linkedin.com/in/connor-sonoda/" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": "Connor Sonoda", "url": "https://www.linkedin.com/in/connor-sonoda/" }
     ]
   },
   "interests": [
@@ -39,18 +37,18 @@
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
-      "courses": [
+      "courses": [ "ICS 314"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Apple",
+      "position": "Operations Specialist",
+      "website": "apple.com",
+      "startDate": "2021-08-16",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Works in the Operations Sector of Apple Retail.",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"

@@ -35,10 +35,9 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2018-08-22",
       "endDate": "Present",
-      "courses": [ "ICS 314"
-      ]
+      "courses": [ "ICS 314"]
     }
   ],
   "work": [
@@ -55,9 +54,9 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
+      "company": "Maryknoll School",
+      "position": "Robotics Coach",
+      "website": "https://www.maryknollschool.org",
       "startDate": "2015-01-01",
       "endDate": "2016-03-15",
       "summary": "",

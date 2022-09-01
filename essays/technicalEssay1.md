@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/javascript-illustration.png">
+<img width="1000px" class="rounded float-start pe-4" src="../img/javascript-illustration.png">
 
 Learning Javascript is a good entryway into the world of coding. Having learned Javascript it is undeniably one of the easier languages to learn and is widely applicable. In my ICS 314 course, one of the first tasks we were given was to learn Javascript, and very quickly. Having learned Java and C beforehand helped greatly as solving 150 problems with increasing difficulty on the first week of class isn’t the most pleasurable process without a good background. Javascript is certainly a more forgiving language and more easily usable. Javascript is one of the core languages that we use on the internet today.
 

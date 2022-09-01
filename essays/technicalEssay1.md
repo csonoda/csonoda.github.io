@@ -1,12 +1,12 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "The Javascript Coding Journey"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2022-08-30
 published: true
 labels:
-  - Software Engineering
+  - Javascript
   - Learning
 ---
 

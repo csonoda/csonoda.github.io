@@ -2,7 +2,7 @@
   "basics": {
     "name": "Connor Sonoda",
     "label": "Student",
-    "picture": "https://github.com/csonoda/csonoda.github.io/blob/134f62b13c0729908d91dea1d2660eb7318cd983/img/IMG_1481.JPG",
+    "picture": "https://github.com/csonoda.png",
     "email": "csonoda9@hawaii.edu",
     "website": "https://csonoda.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
@@ -13,20 +13,20 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
+    { "name": "Computer Science" },
+    { "name": "Video Game Design" },
     { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Computer Hardware" },
+    { "name": "3D Modeling" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "LabView", "Eikon", "MatLab"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Windows 10", "Git/GitHub",]
     }
   ],
   "education": [

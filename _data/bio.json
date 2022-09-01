@@ -2,12 +2,11 @@
   "basics": {
     "name": "Connor Sonoda",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
+    "picture": "https://github.com/csonoda/csonoda.github.io/blob/134f62b13c0729908d91dea1d2660eb7318cd983/img/IMG_1481.JPG",
     "email": "csonoda9@hawaii.edu",
-    "phone": "567-5309",
     "website": "https://csonoda.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "csonoda", "url": "https://github.com/csonoda" },
       { "network": "linkedin", "username": "Connor Sonoda", "url": "https://www.linkedin.com/in/connor-sonoda/" }

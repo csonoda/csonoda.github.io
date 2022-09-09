@@ -11,15 +11,15 @@ labels:
   - Communication
 ---
 
-<img width="1000px" class="rounded float-start pe-4" src="../img/javascript-illustration.png">
+<img width="1000px" class="rounded float-start pe-4" src="../img/1280px-Stack_Overflow_logo.png">
 
 ### Smart Questions
 
-Asking smart questions are one of the key elements in effective communication and collaboration among developers. By asking smart questions, you should receive and equally effective and relevant answer to it. There are many nuances to asking a good question, especially when asking people who have no context to what you’re working on. Forums like StackOverflow can be exceptionally helpful when developing software. It’s a website where people come together to solve each other’s issues and errors. By asking smart questions on StackOverflow it allows others to help you more effectively. But what is a smart question?
+Asking smart questions are one of the key elements in effective communication and collaboration among developers. By asking smart questions, you should receive and equally effective and relevant answer to it. There are many nuances to asking a good question, especially when asking people who have no context to what you’re working on. In order to ask a smart question, you need to understand your question. Where it came from, what research have you done before asking, what specifically are you looking to get answered. From there you can ask a question. Next you need to provide ample information. Sample code, output, debugging errors, language, IDE, and more.  The more information you are able to provide, the easier it is for others to understand the question. Lastly, you must remain professional. Keep an eye on your question, when people reply you must respond in a timely matter. Do not insult people if they don't have the right answer. Instead, follow up and provide a little more context to the situation. This helpes people understand what you do need. Lastly, thank people for providing answers as they do it with no reward or financial compensation.
 
 ### Stack Overflow
 
-Anyone is able to post questions on StackOverflow, but not everyone’s questions receive the same level of detail and attention as others. Many questions often go unanswered or even removed from the forum. Why is this? When others are unable to quickly read, understand and evaluate the issue it often leads to people unable to answer or worse, don’t want to answer at all. Spending additional time trying to decipher or asking too many additional questions leads others to ignore the problem entirely. 
+Stack Overflow is a website where people come together to solve each other’s issues and errors. By asking smart questions on StackOverflow it allows others to help you more effectively. Anyone is able to post questions on StackOverflow, but not everyone’s questions receive the same level of detail and attention as others. Many questions often go unanswered or even removed from the forum. Why is this? When others are unable to quickly read, understand and evaluate the issue it often leads to people unable to answer or worse, don’t want to answer at all. Spending additional time trying to decipher or asking too many additional questions leads others to ignore the problem entirely. 
 
 ________________________________________________________________________________________________________
 
@@ -28,6 +28,8 @@ This [Question](https://stackoverflow.com/questions/73655082/i-dont-know-what-i-
 #### I don't know what I'm doing wrong, please tell me
 
 *I know this is probably stupid but I am new to python and I just came from javascript so please don't be rude*
+
+<img width="1000px" class="rounded float-start pe-4" src="../img/notGoodQuestion.png">
 
 I coded it as a fail safe so it is only supposed to say 'no' if it is not a integer or a number between 1 and 9. I have tried adding brackets and I have done everything I can think of
 

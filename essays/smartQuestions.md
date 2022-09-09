@@ -29,7 +29,7 @@ This [Question](https://stackoverflow.com/questions/73655082/i-dont-know-what-i-
 
 *I know this is probably stupid but I am new to python and I just came from javascript so please don't be rude*
 
-<img width="1000px" class="rounded float-start pe-4" src="../img/notGoodQuestion.png">
+<img width="250px" class="rounded float-start pe-4" src="../img/notGoodQuestion.png">
 
 I coded it as a fail safe so it is only supposed to say 'no' if it is not a integer or a number between 1 and 9. I have tried adding brackets and I have done everything I can think of
 

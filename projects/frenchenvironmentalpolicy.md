@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/franceIcon.png
 title: "An Overview on French Environmental Policy"
-date: 2022
+date: 2019
 published: true
 labels:
 - Environmental Politics

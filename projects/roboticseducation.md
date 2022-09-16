@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/robotics-education/robotFRC.jpeg
 title: "Robotics Education in Hawaii"
 date: 2022
 published: true

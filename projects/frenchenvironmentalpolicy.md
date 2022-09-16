@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/robotics-education/France.png
+image: img/France.png
 title: "An Overview on French Environmental Policy"
 date: 2022
 published: true

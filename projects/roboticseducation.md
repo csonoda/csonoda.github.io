@@ -10,8 +10,7 @@ labels:
 - Teaching
 - Engineering
 - Programming
-- 
-  summary: "My time teaching robotics in Hawaii"
+summary: "My time teaching robotics in Hawaii"
 ---
 
 <img class="img-fluid" src="../img/robotics-education/robotFRC.jpeg" alt="">

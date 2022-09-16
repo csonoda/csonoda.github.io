@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/France.png
+image: img/franceIcon.png
 title: "An Overview on French Environmental Policy"
 date: 2022
 published: true

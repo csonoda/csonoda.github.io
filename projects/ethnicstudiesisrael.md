@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/israelIcon.png
 title: "Ethnic Study of Israel"
-date: 2022
+date: 2019
 published: true
 labels:
 - Ethnic Studies

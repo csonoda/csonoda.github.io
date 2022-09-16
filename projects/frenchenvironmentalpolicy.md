@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/robotics-education/robotFRC.jpeg
+image: img/robotics-education/France.png
 title: "An Overview on French Environmental Policy"
 date: 2022
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "My Research Study on French Environmental Policy"
 ---
 
-<img class="img-fluid" src="../img/robotics-education/robotFRC.jpeg" alt="">
+<img class="img-fluid" src="../img/France.png" width="400" height="300" alt="">
 
 In my Environmental Politics Class, I was able to do a brief study on the policies implemented by France. Some of the research I was able to do was very interesting. France tends to be an early adopter of global policies to reduce carbon footprints and waste, but frequently does not meet these goals.
 

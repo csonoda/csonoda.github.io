@@ -32,4 +32,4 @@ My students were also given the opportunity to compete both locally and on the i
 
 This opportunity gave many local students a much broader view than just locally at how vast the world of robotics is. 
 
-
+Take a look at some of their work [here](https://www.ksrobowarriors.org)

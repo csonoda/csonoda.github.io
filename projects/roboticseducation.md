@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/robotics-education/robotIcon.png
 title: "Robotics Education in Hawaii"
-date: 2022
+date: 2021
 published: true
 labels:
 - Robotics

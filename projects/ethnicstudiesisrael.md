@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/robotics-education/robotFRC.jpeg
+image: img/Israel.png
 title: "Ethnic Study of Israel"
 date: 2022
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "My Research Study on Israel's World Happiness Index"
 ---
 
-<img class="img-fluid" src="../img/robotics-education/robotFRC.jpeg" alt="">
+<img class="img-fluid" src="../img/Israel.png" width="400" height="300" alt="">
 
 Israel is in constant conflict with its surrounding countries. Despite this, a study done by the United Nations known as the World Happiness Report showed that Israel is very happy. 
 

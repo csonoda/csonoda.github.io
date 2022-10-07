@@ -46,6 +46,6 @@ The difficulty of learning Bootstrap is similar to the difficulty of learning a 
 </div>
 ```
 
-If you were to misplace or change certain properties of this structure, it will most certainly warp your website in undesirable ways. 
+If you were to misplace or change certain properties of this structure, it will most certainly warp your website in undesirable ways. However when used properly it allows your website to be formatted in ways that HTML and CSS alone would be much more difficult to achieve. The fundamentals of this layout system is one of the key points that makes Bootstrap one of the most popular Frameworks of the internet.
 
 Despite the difficulties of learning the framework, having access to this knowledge is one of the most powerful tools you can have in your kit as a web developer. I had a lot of fun learning this Framework and I believe that anyone interested in web design can learn it as well. 

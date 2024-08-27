@@ -17,4 +17,4 @@ Learning how to use github showed me the importance of collaboration and identif
 
 These skills can be applied to any professional software engineering field and will only further develop going forward.  
 
-I believe that learning these skills have helped me futher my skills as a software developer and I look forward to learning more.
+Learning these skills have helped me futher my skills as a software developer and I look forward to learning more.

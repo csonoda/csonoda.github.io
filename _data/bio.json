@@ -5,7 +5,7 @@
     "picture": "https://github.com/csonoda.png",
     "email": "csonoda9@hawaii.edu",
     "website": "https://csonoda.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2023.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2024.",
     "location": { "address": "", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "csonoda", "url": "https://github.com/csonoda" },
@@ -16,13 +16,13 @@
     { "name": "Computer Science" },
     { "name": "Video Game Design" },
     { "name": "Robotics" },
-    { "name": "Computer Hardware" },
-    { "name": "3D Modeling" }
+    { "name": "Software Development" },
+    { "name": "QA Testing" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "LabView", "Eikon", "MatLab"]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Swift", "SQL", "R", "LabView", "Eikon", "MatLab"]
     },
     {
       "name": "Toolsets/OS",
@@ -32,10 +32,10 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall 2023)",
+      "area": "Computer Science (expected Fall 2024)",
       "studyType": "B.S.",
       "startDate": "2018-08-22",
-      "endDate": "Present",
+      "endDate": "2024-12-21",
       "courses": [ "ICS 314"]
     }
   ],

@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Connor Sonoda",
-    "label": "Student",
+    "label": "Software Quality Engineer",
     "picture": "https://github.com/csonoda.png",
     "email": "csonoda9@hawaii.edu",
     "website": "https://csonoda.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2024.",
+    "summary": "Software QE Engineer with a passion for software development and quality assurance. Graduate of the University of Hawaii at Manoa, majoring Computer Science. I have experience in C++, Java, and Javascript, as well as experience with QA testing and software development.",
     "location": { "address": "", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "csonoda", "url": "https://github.com/csonoda" },
@@ -22,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Swift", "SQL", "R", "LabView", "Eikon", "MatLab"]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Swift", "SQL", "R", "LabView", "Eikon", "MatLab", "Python"]
     },
     {
       "name": "Toolsets/OS",
@@ -32,11 +32,11 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall 2024)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2018-08-22",
       "endDate": "2024-12-21",
-      "courses": [ "ICS 314"]
+      "courses": [ "ICS 311, ICS 312, ICS 313, ICS 314, ICS 331, ICS 332, ICS 422, ICS 427, ICS 451, ICS 466, ICS 496"]
     }
   ],
   "work": [

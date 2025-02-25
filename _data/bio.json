@@ -1,0 +1,83 @@
+{
+  "basics": {
+    "name": "Connor Sonoda",
+    "label": "Student",
+    "picture": "https://github.com/csonoda.png",
+    "email": "csonoda9@hawaii.edu",
+    "website": "https://csonoda.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2024.",
+    "location": { "address": "", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "csonoda", "url": "https://github.com/csonoda" },
+      { "network": "linkedin", "username": "Connor Sonoda", "url": "https://www.linkedin.com/in/connor-sonoda/" }
+    ]
+  },
+  "interests": [
+    { "name": "Computer Science" },
+    { "name": "Video Game Design" },
+    { "name": "Robotics" },
+    { "name": "Software Development" },
+    { "name": "QA Testing" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Swift", "SQL", "R", "LabView", "Eikon", "MatLab"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Windows 10", "Git/GitHub"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Fall 2024)",
+      "studyType": "B.S.",
+      "startDate": "2018-08-22",
+      "endDate": "2024-12-21",
+      "courses": [ "ICS 314"]
+    }
+  ],
+  "work": [
+    {
+      "company": "Apple",
+      "position": "Operations Specialist",
+      "website": "apple.com",
+      "startDate": "2021-08-16",
+      "endDate": "Present",
+      "summary": "Works in the Operations Sector of Apple Retail.",
+      "highlights": [
+        "Maintain and complete day to day operations in the store.",
+        "Receive, Manage and Send out high-value products"
+      ]
+    },
+    {
+      "company": "Maryknoll School",
+      "position": "Robotics Coach",
+      "website": "https://www.maryknollschool.org",
+      "startDate": "2019-03-01",
+      "endDate": "2021-05-21",
+      "summary": "",
+      "highlights": [
+        "Teaches Students Grades 4-12 about competitive robotics",
+        "Teaches engineering methods and programming languages"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Kamehameha Robotics",
+      "website": "https://www.ksrobowarriors.org",
+      "position": "Mentor",
+      "startDate": "2017-05-20",
+      "endDate": "Present",
+      "summary": "Teaching Highschool Students Competitive Robotics"
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}

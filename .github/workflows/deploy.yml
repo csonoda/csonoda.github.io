@@ -19,6 +19,19 @@ jobs:
         ruby-version: 3.1.4  # Specify the Ruby version you need
 
     - name: Install dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y rbenv
+        rbenv init
+        git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
+        rbenv install 3.1.4
+        rbenv global 3.1.4
+        echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
+        echo 'eval "$(rbenv init -)"' >> ~/.bashrc
+        source ~/.bashrc
+        gem install bundler
+
+    - name: Install Ruby gems
       run: bundle install
 
     - name: Build site
